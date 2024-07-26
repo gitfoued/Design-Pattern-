@@ -22,4 +22,4 @@ easy to access.
 To resolve this, we will create a facade class which will wrap a server object
 
 # diagram
-(diagramme_facade.png)
+![Diagramme de la façade](diagramme_facade.png)
