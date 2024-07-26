@@ -12,4 +12,8 @@ The Composite Pattern has four participants:
 • Composite
 • Client
 
+# diagram
+![Description de l'image](diagram.png)
 
+# Use Case
+![Description de l'image](exemple.png)
